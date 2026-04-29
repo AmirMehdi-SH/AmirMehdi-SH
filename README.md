@@ -15,6 +15,6 @@ Hi, I'm Amir Mehdi Shahbazi<br> A junior Front-End developer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMehdi-SH&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=javadkrm&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AmirMehdi-SH&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
