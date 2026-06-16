@@ -21,10 +21,9 @@ Hi, I'm Amir Mehdi Shahbazi, A junior Front-End developer
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
+<br/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AmirMehdi-SH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AmirMehdi-SH&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AmirMehdi-SH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=AmirMehdi-SH&icon=0&color=0)](https://visitcount.itsvg.in)
