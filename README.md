@@ -20,6 +20,7 @@ Hi, I'm Amir Mehdi Shahbazi, A junior Front-End developer
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AmirMehdi-SH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AmirMehdi-SH&theme=dark&hide_border=false)<br/>
